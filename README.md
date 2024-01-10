@@ -1,5 +1,5 @@
 # NASASPACEAPPS-QuizFlashcard
- Quiz em modelo flashcard para o desafio da NASA SPACE APPS em <a href="https://lucmoura.github.io/flashcard.html"> NASA SPACE APPS 2023/QUIZ</a>
+ Quiz em modelo flashcard para o desafio da NASA SPACE APPS em <a href="https://lucmoura.github.io/flashcard.html"> NASA SPACE APPS 2023/QUIZ</a> e o link das entregas em <a href="https://www.spaceappschallenge.org/2023/find-a-team/amigos-do-neymar/?tab=details"> NASA SPACE APPS 2023/ENTREGAS</a>
 
 <img src="./template/EMITpergunta.png">
 <img src="./template/EMITresposta.png">
